@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Asegura que el contenedor ocupe toda la altura de la pantalla */
+    background-color: #f8f9fa; /* Color de fondo claro */
+}
+
+img {
+    max-width: 100%;
+    height: auto; /* Asegura que la imagen mantenga su proporción */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Añade una sombra alrededor de la imagen */
+   
+}
