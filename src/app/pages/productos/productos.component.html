@@ -1,1 +1,16 @@
-<p>productos works!</p>
+<div class="row">
+    @for (item of producto; track item) {
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{item.imagen}}">
+          <img src="{{item.imagen}}" alt="Lights" class="product-image">
+          <div class="caption">
+          </div>
+        </a>
+        <p>Nombre: {{item.nombre}}</p>
+        <p>Precio: {{item.precio}}</p>
+      </div>
+    </div>
+    }
+  </div>
+  

@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
+import { ProductoService } from '../../services/producto.service';
 
 @Component({
   selector: 'app-productos',
@@ -9,4 +10,12 @@ import { Component } from '@angular/core';
 })
 export class ProductosComponent {
 
+  producto:any
+  servicio= inject(ProductoService)
+
+  ngOnInit(){
+    this.servicio.getProducto().subscribe(p=>{console.log(p)
+      this.producto=p
+    })
+  }
 }

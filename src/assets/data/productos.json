@@ -1,0 +1,165 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Camiseta",
+        "descripcion": "Camiseta de algodón 100% orgánico",
+        "precio": 19.99,
+        "stock": 50,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmufBoU5PC5pjNP24L0VmaeZFuZl9-3ahkhA&s"
+      },
+      {
+        "id": 2,
+        "nombre": "Pantalones",
+        "descripcion": "Pantalones de mezclilla ajustados",
+        "precio": 39.99,
+        "stock": 40,
+        "imagen": "https://i.pinimg.com/originals/b8/44/28/b844281f182289bc47b69530190167a9.png"
+      },
+      {
+        "id": 3,
+        "nombre": "Zapatos",
+        "descripcion": "Zapatos deportivos para correr",
+        "precio": 59.99,
+        "stock": 30,
+        "imagen": "https://paylesschat.com/ecuador/12889-medium_default/zapatos_deportivos_vistech_par.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Sudadera",
+        "descripcion": "Sudadera con capucha unisex",
+        "precio": 29.99,
+        "stock": 20,
+        "imagen": "https://i0.wp.com/tutiendashoka.com/wp-content/uploads/2022/04/sudadera-one-piece-monkey-d-luffy.jpg?fit=1200%2C1200&ssl=1"
+      },
+      {
+        "id": 5,
+        "nombre": "Gorra",
+        "descripcion": "Gorra de béisbol con diseño ajustable",
+        "precio": 14.99,
+        "stock": 75,
+        "imagen": "https://image.slidesdocs.com/responsive-images/background/white-adjustable-baseball-cap-with-3d-rendered-design-on-a-plain-powerpoint-background_1eb26811a1__960_540.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Bufanda",
+        "descripcion": "Bufanda de lana suave",
+        "precio": 24.99,
+        "stock": 15,
+        "imagen": "https://m.media-amazon.com/images/I/518DECdgt3L._AC_SL1080_.jpg"
+      },
+      {
+        "id": 7,
+        "nombre": "Mochila",
+        "descripcion": "Mochila resistente al agua con múltiples compartimentos",
+        "precio": 49.99,
+        "stock": 25,
+        "imagen": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/e52001bce6f6082764a7e730ffa58ed6.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp"
+      },
+      {
+        "id": 8,
+        "nombre": "Reloj",
+        "descripcion": "Reloj de pulsera con correa de cuero",
+        "precio": 99.99,
+        "stock": 10,
+        "imagen": "https://victoriaecuador.com/4223-thickbox_default/combo-de-reloj-mas-juego-de-pulseras.jpg"
+      },
+      {
+        "id": 9,
+        "nombre": "Gafas de sol",
+        "descripcion": "Gafas de sol polarizadas",
+        "precio": 29.99,
+        "stock": 60,
+        "imagen": "https://ae01.alicdn.com/kf/Sd816d2d73b6e473d97e057081bd39406i.jpg?width=800&height=800&hash=1600"
+      },
+      {
+        "id": 10,
+        "nombre": "Cinturón",
+        "descripcion": "Cinturón de cuero genuino",
+        "precio": 19.99,
+        "stock": 45,
+        "imagen": "https://ae01.alicdn.com/kf/Hd6482c69b74444bbbf0acc84494708fdl.jpg_640x640Q90.jpg_.webp"
+      },
+      {
+        "id": 11,
+        "nombre": "Bolso",
+        "descripcion": "Bolso de mano de cuero",
+        "precio": 79.99,
+        "stock": 12,
+        "imagen": "https://dorianargentina.com/wp-content/uploads/2023/07/bolso-cuero-viaje-mano-hombre-arlington-suela-modelo-scaled.jpg"
+      },
+      {
+        "id": 12,
+        "nombre": "Guantes",
+        "descripcion": "Guantes de invierno con forro polar",
+        "precio": 19.99,
+        "stock": 30,
+        "imagen": "https://m.media-amazon.com/images/I/71+DF0C3+9L.jpg"
+      },
+      {
+        "id": 13,
+        "nombre": "Chaqueta",
+        "descripcion": "Chaqueta impermeable ligera",
+        "precio": 59.99,
+        "stock": 20,
+        "imagen": "https://tepuy.ec/img/p/4/5/6/456-large_default.jpg"
+      },
+      {
+        "id": 14,
+        "nombre": "Sombrero",
+        "descripcion": "Sombrero de ala ancha de fieltro",
+        "precio": 34.99,
+        "stock": 18,
+        "imagen": "https://i5.walmartimages.com/asr/b5389c87-1844-43f3-9cca-fff3f51d4e41.6222003e720fe486de62258058ffac9e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+      },
+      {
+        "id": 15,
+        "nombre": "Calcetines",
+        "descripcion": "Pack de 5 pares de calcetines de algodón",
+        "precio": 12.99,
+        "stock": 100,
+        "imagen": "https://i.pinimg.com/474x/c3/cd/de/c3cddec7562d4560d438fa3eea830e6d.jpg"
+      },
+      {
+        "id": 16,
+        "nombre": "Botas",
+        "descripcion": "Botas de cuero para senderismo",
+        "precio": 89.99,
+        "stock": 22,
+        "imagen": "https://m.media-amazon.com/images/I/51Y0quHR11L._AC_SL1000_.jpg"
+      },
+      {
+        "id": 17,
+        "nombre": "Traje",
+        "descripcion": "Traje de dos piezas formal",
+        "precio": 199.99,
+        "stock": 8,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_625981-CBT69072092007_042023-O.webp"
+      },
+      {
+        "id": 18,
+        "nombre": "Corbata",
+        "descripcion": "Corbata de seda estampada",
+        "precio": 29.99,
+        "stock": 35,
+        "imagen": "https://cdn-images.farfetch-contents.com/21/85/65/33/21856533_51727031_600.jpg"
+      },
+      {
+        "id": 19,
+        "nombre": "Bañador",
+        "descripcion": "Bañador para hombre de secado rápido",
+        "precio": 24.99,
+        "stock": 28,
+        "imagen": "https://cdn.faire.com/fastly/24e7b174800656e721bd551029c79c78ef854549226bb1c05e6d6190c4f8d070.jpeg?bg-color=FFFFFF&canvas=720:960&dpr=1&fit=bounds&format=jpg&height=960&width=720"
+      },
+      {
+        "id": 20,
+        "nombre": "Zapatillas",
+        "descripcion": "Zapatillas de casa de felpa",
+        "precio": 19.99,
+        "stock": 50,
+        "imagen": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/574b75b2d427b84d19ae725a62342912.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp"
+      }
+    ]
+  }
+  
